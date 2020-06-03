@@ -40,6 +40,19 @@ h1 {
     color: #545454;
 }
 
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home {
+    color: #ffb198;
+    text-decoration: none
+}
+
+.home a:hover {
+    color: 
+}
+
 .menu ul {
     list-style-type: none;
     margin: 0;
@@ -47,7 +60,7 @@ h1 {
  }
   
 .menu li {
-    
+    color: #e7717d
 }
 
 .menu a:hover {
@@ -55,6 +68,7 @@ h1 {
 }
 
 .menu a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: #ffffff;
     background-color: #e7717d;
@@ -70,8 +84,9 @@ h1 {
 }
 
 .footer {
-    background-color: #0099cc;
+    background-color: #e7717d;
     color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 12px;
     padding: 15px;
